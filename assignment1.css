@@ -1,0 +1,233 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-contend{
+    
+    
+    background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0.5)),url(Banner\ Image.png);
+    background-repeat:no-repeat ;
+    width: 1100px;
+    height: 600px;
+    background-position:center;
+    color: #fff;
+    font-family: merriweather;
+    text-align: center;
+    border-radius: 20px;
+
+}
+center{
+    padding-top: 25%;
+}
+    
+
+body{
+    max-width: 1100px;
+    margin: 35px auto;
+}
+.header{
+    font-size: 30px;
+    padding-bottom: 15px;
+    
+}
+.header-next-line{
+    width: 630px;
+    height: 200px;
+    font-weight: 700;
+    font-size: 50px;
+}
+.discount{
+    text-align: center;
+    font-family: merriweather;
+    height: 500px;
+}
+.offer-show{
+    color: #FF0000;
+    font-size: 80px;
+    font-family: Inter;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    
+}
+.holiday{
+    color: #FF0000;
+    font-size: 20px;
+}
+.catagory{
+    font-size: 40px;
+}
+
+.img-new-yr{
+    
+    width: 400px;
+    padding:10px ;
+    
+}
+
+.new-img-section
+{
+    margin-top: 20px;
+    
+    padding: 50px;
+    background-image:  linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,0.1)),url(Vectorrr.png);
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-repeat: no-repeat;
+    width: 1200px;
+    height: 600px;
+    background-position:center;
+    color: #fff;
+    font-family: merriweather;
+    background-position:center;
+    border-radius: 10px;
+    
+    display: inline-block;
+    
+
+}
+.midnight-party{
+    
+    width: 500px;
+    font-size: 40px;
+    font-family: Merriweather;
+font-weight: 900;
+
+letter-spacing: 7.04px;
+padding: 50px;
+
+
+
+
+}
+.midnight-pic{
+    display: block;
+    text-align: right;
+
+}
+.description{
+    font-size: 18px;
+font-family: merriweather;
+
+
+font-size: 16px;
+width: 530px;
+
+margin-left: 50px;
+
+}
+.button{
+    margin-left:50px;
+    margin-top: 10px;
+    padding: 5px;
+    color: #be11a7;
+    background-color: goldenrod;
+    border-radius: 10px;
+    float: left;
+}
+.button:hover{
+    background-color: tomato;
+    color: darkorchid;
+}
+.single-line{
+    color: red;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.description-port{
+    width: 700px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+
+.img-contend{
+    width: 600px;
+    height: 500px;
+    gap: 10px; 
+    display: flex;
+    height: 400px;
+    
+}
+.img-second-part{
+    width: 600px;
+    display: flex;  
+    gap: 10px;  
+    height: 400px;
+}
+.img:hover{
+    width: 600px;
+    height: 500px;
+}
+.img-email{
+    width: 100px;
+    margin: 20px;
+    
+}
+section{
+    width: 1200px;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.05);
+    margin-top: 20px;
+    border-radius: 20px;
+    color: #070211;
+    font-size: 34px;
+    font-family: Merriweather;
+    font-weight: 700;
+    height: 400px;
+    
+}
+.channel-sec{
+    color: gray;
+    font-size: 20px;
+}
+
+.button-subs,.button-sub{
+    padding: 10px;
+    border-radius: 50px;
+    
+}
+.button-sub{
+    background-color: red;
+    color: #fff;
+    
+}
+.button-sub:hover{
+    background-color: yellowgreen;
+}
+.location-contend{
+    width: 1200px;
+    background-color: black;
+    height: 500px;color: #fff;
+    padding-top: 50px;
+    margin-top:30px ;
+    border-radius: 20px;
+    padding-left: 10px;
+
+}.contact-number{
+    text-align: right;
+    padding-right: 20px;
+    padding-top: -20px;
+    
+}
+
+.social-media{
+    text-align: center;
+    padding: 20px;
+    
+}.last-one{
+    width: 10px;
+    
+    
+}
+button{
+    cursor: pointer;
+    
+}
